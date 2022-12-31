@@ -24,22 +24,36 @@ Features:
       Oil of Immolation
       Elemental Sharpening Stones
       Heavy Runecloth Bandages
+      
     Keeps Track of Item Quantity, as well as Cooldowns
 
   Remind the user to user their Supercharged Chronoboon Displacer
 
 TODO:
+
   Reminder to use:
+  
     Trinkets, Swap trinkets
+    
     deathwish
+    
     Recklessness
+    
     Mighty Rage Potion
+    
     Cooldowns for each
+    
   Additional Consumes
+  
     Magic Mushrooms (Right now it checks by item name, will likely need to check by item ID for these items)
+    
     consecrated sharpening stone
+    
       (Check to see if weapon already has it applied if so, hide it)
+      
   Check to see which raid buffs you're missing based on raid comp
+  
     (Will check to see if you have a shaman in your party before complaining that you're missing Kings/Might for example)
+    
   Lexing (So more than enUS clients can use this)
   
