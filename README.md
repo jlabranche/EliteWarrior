@@ -29,7 +29,7 @@ Features:
 
   Remind the user to user their Supercharged Chronoboon Displacer
   
-  Able to move the consumable buttons around by holding shift, left clickin then dragging to where you want
+  Able to move the consumable buttons around by holding shift, left clicking then dragging to where you want
 
 TODO:
 
