@@ -28,6 +28,8 @@ Features:
     Keeps Track of Item Quantity, as well as Cooldowns
 
   Remind the user to user their Supercharged Chronoboon Displacer
+  
+  Able to move the consumable buttons around by holding shift, left clickin then dragging to where you want
 
 TODO:
 
@@ -50,3 +52,4 @@ TODO:
     
   Lexing (So more than enUS clients can use this)
   
+  Need to remember where you moved the consumable buttons around once moved.
