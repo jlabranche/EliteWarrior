@@ -1,0 +1,16 @@
+## Interface: 11200
+## Title: EliteWarrior |cff7fff7fClassic-WoW|r
+## Notes: Display information about your warrior
+## SavedVariables: ConsumeList
+## SavedVariablesPerCharacter: ConsumeListChar
+## OptionalDeps: Ace2
+## Author: Hobbit
+
+Libs\embeds.xml
+
+##
+core.lua
+core_ace.lua
+elitewarrior_consume.lua
+elitewarrior_combat.lua
+elitewarrior_missing_raid_buffs.lua
