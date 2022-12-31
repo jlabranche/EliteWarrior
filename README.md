@@ -2,10 +2,15 @@
 V0.1 Basic details to help a warrior dps
 
 Features:
+
   Time Till Death
+  
   Battle Shout Reminder
+  
   Put a lot of consumes on the right side of the screen
+  
     List includes:
+    
       Greater (only) Fire, Shadow, Nature, Arcane, Frost Potions
       Greater Agility, Elixir of Mongoose
       Elixir of Giants, Juju of Power
