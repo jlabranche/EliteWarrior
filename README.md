@@ -39,16 +39,13 @@ TODO:
     Mighty Rage Potion
     Cooldowns for each
     
-  Additional Consumes
+  Additional Consumes:
   
     Magic Mushrooms (Right now it checks by item name, will likely need to check by item ID for these items)
-    
-    consecrated sharpening stone
-    
-      (Check to see if weapon already has it applied if so, hide it)
+    consecrated sharpening stone (Check to see if weapon already has it applied if so, hide it)
       
   Check to see which raid buffs you're missing based on raid comp
-  
+    
     (Will check to see if you have a shaman in your party before complaining that you're missing Kings/Might for example)
     
   Lexing (So more than enUS clients can use this)
