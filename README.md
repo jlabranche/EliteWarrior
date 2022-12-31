@@ -34,13 +34,9 @@ TODO:
   Reminder to use:
   
     Trinkets, Swap trinkets
-    
     deathwish
-    
     Recklessness
-    
     Mighty Rage Potion
-    
     Cooldowns for each
     
   Additional Consumes
